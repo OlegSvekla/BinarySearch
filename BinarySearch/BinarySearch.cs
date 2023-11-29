@@ -3,7 +3,7 @@
     public static void Main()
     {
         int[] sortedArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-        int target = 73;
+        int target = 7;
 
         int result = Search(sortedArray, target);
         if (result != -1)
