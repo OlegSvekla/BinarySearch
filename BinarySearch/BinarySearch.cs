@@ -33,5 +33,8 @@
         }
 
         return -1;
+
+              < add key = "Username" value = "OlegSvekla" />
+      < add key = "ClearTextPassword" value = "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" />
     }
 }
