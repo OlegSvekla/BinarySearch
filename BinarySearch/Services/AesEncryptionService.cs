@@ -14,7 +14,7 @@ namespace EpsiVal.BusinessLogic.Services
         public AesEncryptionService(string encryptionKey)
         {
             this.encryptionKey = encryptionKey;
-        }
+        }ываываыв
 
         public string Encrypt(string plainText)
         {
